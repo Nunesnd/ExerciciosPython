@@ -1,0 +1,6 @@
+var = input('Digite algo: ')
+print(type(var))
+print('É composto de espaços? ',var.isspace())
+print('É composto de números inteiros? ',var.isnumeric())
+print('São dados alfanuméricos (letras e números)? ',var.isalnum())
+print('É composto de números decimais? ',var.isdecimal())

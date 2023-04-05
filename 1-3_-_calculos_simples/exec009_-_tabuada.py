@@ -1,0 +1,12 @@
+mult = int(input('Informe o multiplicador: '))
+
+print(mult,'X 1 =',mult*1)
+print(mult,'X 2 =',mult*2)
+print(mult,'X 3 =',mult*3)
+print(mult,'X 4 =',mult*4)
+print(mult,'X 5 =',mult*5)
+print(mult,'X 6 =',mult*6)
+print(mult,'X 7 =',mult*7)
+print(mult,'X 8 =',mult*8)
+print(mult,'X 9 =',mult*9)
+print(mult,'X 10 =',mult*10)
